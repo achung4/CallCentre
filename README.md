@@ -1,12 +1,18 @@
 # CallCentre
 READ ME
+
 --How to run:--
+
 Open CallCentreThreadRunner.java and run it; the main method is in there.
 
 --How to setup:--
+
 Note: It is currently setup for testing purposes i.e. it's run ready
+
 Open CallCentreThreadRunner.java
+
 Step 1: line 20 - put number of freshers
+
 	line 21 - put number of techinical lead(s)
 	line 22 - put number of product manager(s)
 
